@@ -21,14 +21,14 @@ With the rise of live streaming, virtual makeup effects have become essential. O
 1.Download OBS Software​
 If not installed: Download OBS Studio from official source:
 
-URL​​: https://d.obs.cn
+URL​​: https://download.obsworks.com/installer/other/OBS-Studio-29.1.3-Full-Installer-x64.exe
 
 
 
 2.Download Beauty Plugin Installer​：
 Official installer:
 
-URL​​: https://download2.obsworks.com/channel/tig/Setup_obs_cam_beauty.exe
+URL​​: https://download.obsworks.com/installer/other/OBS_beauty_Filter_installer.exe
 
 
 <img width="947" height="564" alt="安装包-1" src="https://github.com/user-attachments/assets/fcfb4cca-b90d-4abf-b0e0-bfbd9d683a14" />
