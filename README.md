@@ -11,9 +11,7 @@ With the rise of live streaming, virtual makeup effects have become essential. O
 
 5.​​High Performance & Low Latency​​: Maintains ​​60fps output under 4K resolution​​, delivering ultra-smooth streaming visuals.
 
-​​Official Website​​: http://www.obsworks.com
 
-​​Plugin Download​​: http://www.obsworks.com/facebeauty
 
 
 # OBS Beauty Plugin Installation Guide
