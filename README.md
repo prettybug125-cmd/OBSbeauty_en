@@ -33,17 +33,15 @@ URL​​: https://download.obsworks.com/installer/other/OBS_beauty_Filter_insta
 
 
 3. ​​Log in to OBS Plugin Center​：
+<img width="2557" height="1489" alt="打开插件中心" src="https://github.com/user-attachments/assets/ba8416e4-f28e-44cd-9c70-3e94ceb7db88" />
 
-<img width="1280" height="722" alt="登录插件中心" src="https://github.com/user-attachments/assets/e5a3d5f1-31e2-4d88-9897-133a0ca5ee52" />
+<img width="2560" height="1486" alt="已添加摄像头" src="https://github.com/user-attachments/assets/ad3a514a-08c7-4cd7-81e6-845b4019d574" />
 
-<img width="1280" height="746" alt="登录插件中心-2" src="https://github.com/user-attachments/assets/d6beaa68-d8cd-49c5-bae2-f76e0fd992cb" />
-
-4.Add Beauty Camera Source​
-
-<img width="1280" height="750" alt="添加美颜摄像头" src="https://github.com/user-attachments/assets/4282c966-ec4a-4ceb-9540-c6ba2166e41b" />
-
-<img width="1919" height="1008" alt="screenshot-20250825-190512" src="https://github.com/user-attachments/assets/5f553fb8-da49-4bc2-b2fc-891ddf072c52" />
-
+4.Add Beauty Camera Source
+​
+<img width="2560" height="1498" alt="添加美颜摄像头" src="https://github.com/user-attachments/assets/3b84c416-e411-4aab-b2cd-9fee60a2d06f" />
+<img width="2560" height="1486" alt="已添加摄像头" src="https://github.com/user-attachments/assets/9ef3e500-83fd-4d0f-952a-454991b122c9" />
 
 5.Adjust beauty parameters based on your needs.​
-<img width="1919" height="1010" alt="screenshot-20250825-190950" src="https://github.com/user-attachments/assets/096b726a-79ff-4c0e-9a60-c0c8a4ee1911" />
+
+<img width="2560" height="1514" alt="美颜参数" src="https://github.com/user-attachments/assets/42981d49-7b86-4064-9751-03705056ce8c" />
