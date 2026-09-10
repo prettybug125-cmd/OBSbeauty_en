@@ -29,7 +29,7 @@ Official installer:
 URL​​: https://download.obsworks.com/installer/other/OBS_beauty_Filter_installer.exe
 
 
-<img width="947" height="564" alt="安装包-1" src="[https://github.com/user-attachments/assets/17efed98-d8bc-4cb5-a236-e087146285d5" />
+<img width="947" height="564" alt="安装包-1" src="https://github.com/user-attachments/assets/17efed98-d8bc-4cb5-a236-e087146285d5" />
 
 
 3. ​​Log in to OBS Plugin Center​：
